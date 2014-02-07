@@ -1,0 +1,3 @@
+class Honda < Car
+
+end
